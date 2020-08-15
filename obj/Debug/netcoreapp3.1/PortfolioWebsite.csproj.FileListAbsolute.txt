@@ -35,3 +35,41 @@ T:\Development\C# Projects\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWeb
 T:\Development\C# Projects\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.genruntimeconfig.cache
 T:\Development\C# Projects\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.csproj.CopyComplete
 T:\Development\C# Projects\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.csprojAssemblyReference.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alex\Documents\Development\PortfolioWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alex\Documents\Development\PortfolioWebsite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\alex\Documents\Development\PortfolioWebsite\bin\Debug\netcoreapp3.1\PortfolioWebsite.exe
+C:\Users\alex\Documents\Development\PortfolioWebsite\bin\Debug\netcoreapp3.1\PortfolioWebsite.deps.json
+C:\Users\alex\Documents\Development\PortfolioWebsite\bin\Debug\netcoreapp3.1\PortfolioWebsite.runtimeconfig.json
+C:\Users\alex\Documents\Development\PortfolioWebsite\bin\Debug\netcoreapp3.1\PortfolioWebsite.runtimeconfig.dev.json
+C:\Users\alex\Documents\Development\PortfolioWebsite\bin\Debug\netcoreapp3.1\PortfolioWebsite.dll
+C:\Users\alex\Documents\Development\PortfolioWebsite\bin\Debug\netcoreapp3.1\PortfolioWebsite.pdb
+C:\Users\alex\Documents\Development\PortfolioWebsite\bin\Debug\netcoreapp3.1\PortfolioWebsite.Views.dll
+C:\Users\alex\Documents\Development\PortfolioWebsite\bin\Debug\netcoreapp3.1\PortfolioWebsite.Views.pdb
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.csprojAssemblyReference.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.AssemblyInfo.cs
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.RazorAssemblyInfo.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.RazorAssemblyInfo.cs
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.TagHelpers.input.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.TagHelpers.output.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.RazorCoreGenerate.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.Views.pdb
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioWebsite.StaticWebAssets.Manifest.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioWebsite.StaticWebAssets.xml
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.dll
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.pdb
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.genruntimeconfig.cache
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\PortfolioWebsite.csproj.CopyComplete
+C:\Users\alex\Documents\Development\PortfolioWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectCard.cshtml.g.cs

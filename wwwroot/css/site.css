@@ -7,6 +7,10 @@ body, html {
     margin: 0;
 }
 
+h1, h2, h3, p {
+    font-family: 'Open Sans', sans-serif;
+}
+
 /* 
     === HOME PAGE === 
 */
@@ -18,10 +22,10 @@ body, html {
     /* Image Configuration*/
     position: relative;
     height: 56.25vw;
-    min-height: 540px;
+    min-height: 360px;
     max-height: 100%;
     width: 100%;
-    min-width: 960px;
+    min-width: 640px;
     max-width: 1920px;
     /* Background Configuration*/
     background-repeat: repeat-x;
@@ -34,8 +38,8 @@ body, html {
     display: block;
     margin: auto;
     height: 100%;
-    min-height: 540px;
-    min-width: 960px;
+    min-height: 360px;
+    min-width: 640px;
 }
 
 #home-landing-image {
@@ -53,8 +57,9 @@ body, html {
     /* Button Appearance */
     color: #fff;
     background-color: transparent;
-    border: thick solid #fff;
-    border-radius: 5px;
+    border: medium solid #fff;
+    border-radius: 1px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
     /* Button Sizing: Scaled in script */
     height: auto;
     min-height: 50px;
@@ -62,8 +67,8 @@ body, html {
     min-width: 150px;
     /* Button Position */
     position: absolute;
-    top:67%;
-    left: 62%;
+    top: 67%;
+    left: 54%;
     /* Button Animation */
     transition: 0.25s;
 }
@@ -99,7 +104,24 @@ body, html {
     right: 1.75%;
 }
 
-.headshot {
+#about-me-image {
     height: 200px;
     width: 200px;
+    display: block;
+    margin: auto;
+}
+
+#about-me-text {
+    display: block;
+    margin: auto;
+}
+
+#about-me-section {
+    padding: 50px;
+    background-color: #43455C;
+}
+
+#featured-projects-section {
+    padding: 50px;
+    background-color: #2E3047;
 }

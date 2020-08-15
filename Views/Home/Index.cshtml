@@ -12,34 +12,43 @@
     </div>    
 </div>
 
-
-
-
-
-
-
-
-
-
-
-<div class="home-about-me">
+<div id="about-me-section">
     <div class="container">
         <div class="row">
-            <div class="col">
-                <img class="headshot" src="~/images/Headshot.png" />
+            <div class="col-md-6 col-sm-12">
+                <img id="about-me-image" src="~/images/Headshot.png" />
             </div>
-            <div class="col">
-                <h1>About Me.</h1>
-                <p>
-                    Trust fund gochujang tilde master cleanse, hammock put a bird on it cronut lyft helvetica heirloom green juice taxidermy vaporware.
-                    Migas vaporware authentic twee chia venmo. Church-key listicle celiac bushwick copper mug before they sold out jianbing put a bird on it.
-                    Man braid salvia ramps twee bicycle rights farm-to-table, offal PBR&B biodiesel artisan.
-                    Authentic wolf single-origin coffee health goth direct trade iceland kitsch adaptogen kickstarter salvia vice air plant cliche craft beer organic.
-                    Vape meggings flannel tbh four dollar toast, gochujang bitters blog small batch PBR&B typewriter XOXO sartorial.
-                </p>
+            <div class="col-md-6 col-sm-12">
+                <div id="about-me-text">
+                    <h1>About Me.</h1>
+                    <p>
+                        Trust fund gochujang tilde master cleanse, hammock put a bird on it cronut lyft helvetica heirloom green juice taxidermy vaporware.
+                        Migas vaporware authentic twee chia venmo. Church-key listicle celiac bushwick copper mug before they sold out jianbing put a bird on it.
+                        Man braid salvia ramps twee bicycle rights farm-to-table, offal PBR&B biodiesel artisan.
+                        Authentic wolf single-origin coffee health goth direct trade iceland kitsch adaptogen kickstarter salvia vice air plant cliche craft beer organic.
+                        Vape meggings flannel tbh four dollar toast, gochujang bitters blog small batch PBR&B typewriter XOXO sartorial.
+                    </p>
+                </div>
             </div>
         </div>
 
     </div>
 </div>
 
+<div id="featured-projects-section">
+    <div class="container">
+        <h1>Featured Projects</h1>
+        <div class="row">
+            <div class="col-md-4 col-sm-12">
+                <partial name="_ProjectCard" />
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <partial name="_ProjectCard" />
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <partial name="_ProjectCard" />
+            </div>
+        </div>
+    </div>
+
+</div>

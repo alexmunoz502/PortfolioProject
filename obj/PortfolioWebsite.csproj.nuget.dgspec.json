@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "T:\\Development\\C# Projects\\PortfolioWebsite\\PortfolioWebsite.csproj": {}
+    "C:\\Users\\alex\\Documents\\Development\\PortfolioWebsite\\PortfolioWebsite.csproj": {}
   },
   "projects": {
-    "T:\\Development\\C# Projects\\PortfolioWebsite\\PortfolioWebsite.csproj": {
+    "C:\\Users\\alex\\Documents\\Development\\PortfolioWebsite\\PortfolioWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Development\\C# Projects\\PortfolioWebsite\\PortfolioWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\alex\\Documents\\Development\\PortfolioWebsite\\PortfolioWebsite.csproj",
         "projectName": "PortfolioWebsite",
-        "projectPath": "T:\\Development\\C# Projects\\PortfolioWebsite\\PortfolioWebsite.csproj",
-        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "T:\\Development\\C# Projects\\PortfolioWebsite\\obj\\",
+        "projectPath": "C:\\Users\\alex\\Documents\\Development\\PortfolioWebsite\\PortfolioWebsite.csproj",
+        "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alex\\Documents\\Development\\PortfolioWebsite\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
