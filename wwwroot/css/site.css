@@ -1,0 +1,105 @@
+﻿/*
+    === ENTIRE SITE ===
+*/
+
+body, html {
+    height: 100vh;
+    margin: 0;
+}
+
+/* 
+    === HOME PAGE === 
+*/
+
+#home-landing-background {
+    /* Background Image with Fall Back Color */
+    background-image: url(/../images/LandingPageBackground.png);
+    justify-content: center;
+    /* Image Configuration*/
+    position: relative;
+    height: 56.25vw;
+    min-height: 540px;
+    max-height: 100%;
+    width: 100%;
+    min-width: 960px;
+    max-width: 1920px;
+    /* Background Configuration*/
+    background-repeat: repeat-x;
+    background-position: center center;
+    background-size: contain;
+}
+
+#home-landing-wrapper {
+    position: relative;
+    display: block;
+    margin: auto;
+    height: 100%;
+    min-height: 540px;
+    min-width: 960px;
+}
+
+#home-landing-image {
+    display: block;
+    margin: auto;
+    height: 100%;
+}
+
+#btn-view-portfolio {
+    /* Content Configuration */
+    outline: 0;
+    /* Button Text */
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    /* Button Appearance */
+    color: #fff;
+    background-color: transparent;
+    border: thick solid #fff;
+    border-radius: 5px;
+    /* Button Sizing: Scaled in script */
+    height: auto;
+    min-height: 50px;
+    width: auto;
+    min-width: 150px;
+    /* Button Position */
+    position: absolute;
+    top:67%;
+    left: 62%;
+    /* Button Animation */
+    transition: 0.25s;
+}
+
+#btn-view-portfolio:hover {
+    transition: 0.25s;
+    background-color: #fff;
+    color: #15151A;
+}
+
+#home-arrow-down {
+    opacity: 1;
+    transition: 0.5s;
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    bottom: 3%;
+    right: 2%;
+}
+
+@media only screen and (max-width: 960px) {
+
+    #home-arrow-down {
+        transition: 0.25s;
+        opacity: 0;
+    }
+}
+
+#home-arrow-down:hover {
+    cursor: pointer;
+    font-size: 60px;
+    bottom: 2.5%;
+    right: 1.75%;
+}
+
+.headshot {
+    height: 200px;
+    width: 200px;
+}
