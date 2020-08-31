@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex\\Documents\\Development\\PortfolioWebsite\\PortfolioWebsite.csproj": {}
+    "T:\\Development\\C# Projects\\PortfolioWebsite\\PortfolioWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex\\Documents\\Development\\PortfolioWebsite\\PortfolioWebsite.csproj": {
+    "T:\\Development\\C# Projects\\PortfolioWebsite\\PortfolioWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex\\Documents\\Development\\PortfolioWebsite\\PortfolioWebsite.csproj",
+        "projectUniqueName": "T:\\Development\\C# Projects\\PortfolioWebsite\\PortfolioWebsite.csproj",
         "projectName": "PortfolioWebsite",
-        "projectPath": "C:\\Users\\alex\\Documents\\Development\\PortfolioWebsite\\PortfolioWebsite.csproj",
-        "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex\\Documents\\Development\\PortfolioWebsite\\obj\\",
+        "projectPath": "T:\\Development\\C# Projects\\PortfolioWebsite\\PortfolioWebsite.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "T:\\Development\\C# Projects\\PortfolioWebsite\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
