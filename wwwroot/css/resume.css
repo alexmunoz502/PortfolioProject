@@ -1,0 +1,202 @@
+﻿body {
+    background-color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/Forest.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#header {
+    /* Background Image */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url(../images/Forest.jpeg);
+    background-size: cover;
+    background-position: center;
+    /* Sizing */
+    width: 1000px;
+    height: 500px;
+    /* Positioning */
+    position: relative;
+    margin: auto;
+}
+
+#image-background {
+    margin: 0;
+    content: "";
+    display: inline-block;
+    height: 240px;
+    width: 240px;
+    background-color: #f1f5f0;
+    position: absolute;
+    top: 300px;
+    left: 80px;
+}
+
+#image-placeholder {
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    /* Positioning */
+    position: relative;
+    margin: 20px;
+}
+
+#name {
+    /* Font Styling */
+    color: #f1f5f0;
+    /* Positioning */
+    margin: 0;
+    position: absolute;
+    top: 350px;
+    left: 360px;
+}
+
+#name > h1 {
+    margin: 0;
+    font-size: 72px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#name > h2 {
+    margin: 0;
+    font-size: 24px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
+/* Content */
+
+#content {
+    margin: auto;
+    width: 1000px;
+    height: 1020px;
+    background-color: #f1f5f0;
+}
+
+h3 {
+    display: inline-block;
+    font-size: 20px;
+    margin-bottom: 0;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h5 {
+    font-size: 14px;
+    display: inline-block;
+    font-style: italic;
+
+}
+
+p {
+    font-size: 16px;
+}
+
+hr {
+    margin-top: 3px;
+    height: 2px;
+    border: none;
+    background-color: #393d38;
+}
+
+li {
+    font-size: 16px;
+    list-style-type: square;
+}
+
+#left-panel {
+    vertical-align: top;
+    display: inline-block;
+    width: 240px;
+    height: 850px;
+    margin-top: 80px;
+    margin-left: 80px;
+    background-color: #8c948d;
+    border-radius: 5px;
+}
+
+#social-media {
+    text-align: left;    
+    width: 90%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+#social-media ul {
+    list-style-position: inside;
+    padding: 0;
+}
+
+#content a {
+    color: black;
+    text-decoration: none;
+}
+
+#content a:hover {
+    text-decoration: underline;
+}
+
+#right-panel {
+    vertical-align: top;
+    display: inline-block;
+    width: 560px;
+    height: 850px;
+    margin-left: 40px;
+    margin-top: 80px;
+    background-color: #d0d0cc;
+    border-radius: 5px;
+}
+
+#education {
+    text-align: left;
+    width: 90%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+#work-experience {
+    text-align: left;
+    width: 90%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.material-icons {
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.work-item-subtitle {
+    width: 100%;
+    float: left;
+}
+
+.work-item-subtitle::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.work-company {
+    float: left;
+}
+
+.work-year {
+    float: right
+}
+
+
+
+/* Footer */
+
+
+#footer {
+    margin: auto;
+    width: 1000px;
+    height: 300px;
+    background-color: #393d38;
+}

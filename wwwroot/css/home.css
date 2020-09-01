@@ -1,0 +1,143 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+
+#landing {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#background-image {
+    position: absolute;
+    height: 100%;
+    width: 120%;
+    left: 50%;
+    transform: translateX(-50%);
+    object-fit: cover;
+    
+}
+
+#parallax {
+
+    height: 800px;
+    width: 800px;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#logo {
+    vertical-align: central;
+    display: block;
+    margin: auto;
+    opacity: 0.5;
+    margin-bottom: 0;
+}
+
+@media (max-width: 400px) {
+    #logo {
+        margin-top: 15vh;
+        height: 300px;
+        width: 300px;
+    }
+
+    #site-nav {
+        margin-top: 100px;
+    }
+
+    #site-nav a {
+        font-size: 24px;
+        display: block;
+    }
+
+}
+
+
+/* Site Nav */
+
+#site-nav {
+    padding-top: 0;
+    animation: slide-up 1.5s;
+    -webkit-animation: slide-up ease 1.5s;
+    -moz-animation: slide-up ease 1.5s;
+    -o-animation: slide-up ease 1.5s;
+    -ms-animation: slide-up ease 1.5s;
+}
+
+@keyframes slide-up {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 0;
+        transform: translateY(25px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Fade in Animation for Logo */
+.fade-in {
+    animation: fadeIn ease 2s;
+    -webkit-animation: fadeIn ease 2s;
+    -moz-animation: fadeIn ease 2s;
+    -o-animation: fadeIn ease 2s;
+    -ms-animation: fadeIn ease 2s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0.5;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0.5;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0.5;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0.5;
+    }
+}
+
+@-ms-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0.5;
+    }
+}
